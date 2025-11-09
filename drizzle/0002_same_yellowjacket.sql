@@ -1,0 +1,1 @@
+ALTER TABLE `products` ADD `sale_type` text DEFAULT 'fixed' NOT NULL;
